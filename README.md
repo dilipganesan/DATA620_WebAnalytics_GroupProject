@@ -4,5 +4,5 @@ This folder consists of Group Project Folder for DATA620.
 
 This group consist of two people
 
-Raghunatha Ramanth
+Raghunathan Ramanth
 Dilip Ganesan
